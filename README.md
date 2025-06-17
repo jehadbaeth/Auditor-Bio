@@ -3,15 +3,13 @@
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=Solidity)
 ![Clarity](https://img.shields.io/badge/Clarity-F46D01)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 
 Welcome - I’m Jehad, a security auditor, software engineer, PhD and a published author. This is my public profile where I will share the highlights of my work. 
 
